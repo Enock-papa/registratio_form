@@ -16,7 +16,7 @@
 		<div class="card" style="border-radius: 40px 0px;">
 			<div class="text-center text-muted p-5">
 				<div class="col-md-12">
-			<h1>Restration Form</h1>
+			<h1>My Restration Form</h1>
 
 			<form action="insert.php" method="POST" style="border-radius: 40px 0px">
 			<div class="input-group mb-3">
